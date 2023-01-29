@@ -2,6 +2,9 @@
 name = "magical-doge"
 version = "0.1.0"
 edition = "2021"
+description = "A magical doge that does magical things"
+authors = ["Andrew Ross"]
+license = "MIT"
 
 [[bin]]
 name = "doge"
