@@ -1,0 +1,10 @@
+[package]
+name = "magical-doge"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "doge"
+path = "src/main.rs"
+
+[dependencies]
